@@ -1,5 +1,5 @@
-Favorite color: w
-Favorite food: w
-Favorite musician/band: w
-Favorite movie: w
-Requested grade in the course: w
+Favorite color: blue
+Favorite food: pizza
+Favorite musician/band: noa kirel the queen
+Favorite movie: marley and i
+Requested grade in the course: 56
