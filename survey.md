@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: w
+Favorite food: w
+Favorite musician/band: w
+Favorite movie: w
+Requested grade in the course: w
